@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project path="device/motorola/msm8226-common" name="TeamMoskvich/android_device_motorola_msm8226-common" remote="github" revision="lineage-15.1" />
+        <project path="kernel/motorola/msm8226" name="TeamMoskvich/android_kernel_motorola_msm8226" remote="github" revision="lineage-15.1" />
+        <project path="vendor/motorola" name="TeamMoskvich/proprietary_vendor_motorola" remote="github" revision="lineage-15.1" />
+        <project path="device/motorola/titan" name="TeamMoskvich/android_device_motorola_titan" remote="github" revision="lineage-15.1" />
+</manifest>
