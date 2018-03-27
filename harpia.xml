@@ -2,9 +2,9 @@
 <manifest>
         <project path="device/motorola/harpia" name="TeamMoskvich/android_device_motorola_harpia" remote="github" revision="lineage-15.1" />
         <project path="device/motorola/msm8916-common" name="TeamMoskvich/android_device_motorola_msm8916-common" remote="github" revision="lineage-15.1" />
-		<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.1" />
+	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.1" />
         <project path="kernel/motorola/msm8916" name="TeamMoskvich/android_kernel_motorola_msm8916" remote="github" revision="lineage-15.1" />
         <project path="vendor/motorola" name="TeamMoskvich/proprietary_vendor_motorola_harpia" remote="github" revision="lineage-15.1" />
-		<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="lineage-15.1" />
-		<project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="lineage-15.1" />
+	<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="lineage-15.1" />
+	<project path="external/bson" name="LineageOS/android_external_bson" remote="github" revision="lineage-15.1" />
 </manifest>
