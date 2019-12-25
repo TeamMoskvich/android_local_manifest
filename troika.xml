@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project path="kernel/motorola/exynos9609" name="TeamMoskvich/android_kernel_motorola_exynos9609" remote="github" revision="lineage-16.0" />
+        <project path="vendor/motorola" name="TeamMoskvich/proprietary_vendor_motorola" remote="github" revision="lineage-16.0" />
+        <project path="device/motorola/troika" name="TeamMoskvich/android_device_motorola_troika" remote="github" revision="lineage-16.0" />
+</manifest>
