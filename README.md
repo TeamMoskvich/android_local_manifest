@@ -5,7 +5,7 @@ They should be placed inside `./repo/local_manifests/`
 ##### Usage:
 Get the manifests
 ```
-curl https://raw.githubusercontent.com/TeamMoskvich/android_local_manifest/lineage-15.1/<DEVICE>.xml > .repo/local_manifests/<DEVICE>.xml
+curl https://raw.githubusercontent.com/TeamMoskvich/android_local_manifest/lineage-16.0/<DEVICE>.xml > .repo/local_manifests/<DEVICE>.xml
 ```
 Sync the repo to get changes
 ```
