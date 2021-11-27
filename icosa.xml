@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-        <project path="device/nvidia/shield-common" name="TeamMoskvich/android_device_nvidia_shield-common" remote="github" revision="lineage-15.1" />
-        <project path="kernel/nvidia/icosa" name="TeamMoskvich/android_kernel_nvidia_icosa" remote="github" revision="lineage-15.1" />
-        <project path="vendor/nvidia" name="TeamMoskvich/proprietary_vendor_nvidia" remote="github" revision="lineage-15.1" />
-        <project path="device/nvidia/icosa" name="TeamMoskvich/android_device_nvidia_icosa" remote="github" revision="lineage-15.1" />
-	<project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.1" />
-</manifest>
